@@ -1,4 +1,6 @@
-## Hi there 👋
+
+## Hi there 👋 Gabriel Espadoni
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2CD508F8&background=29DBFC00&random=false&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Espadoni)](https://git.io/typing-svg)
 
 <!--
 **GabEspadoni2099/GabEspadoni2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
